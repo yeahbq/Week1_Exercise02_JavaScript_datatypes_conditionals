@@ -89,7 +89,7 @@ Let's loop through an array of people and `console.log` both the `index` and the
 
 Why don't we convert our Beatles while loop that we wrote a few minutes ago and convert it to a `for` loop!
 
-#### Intermediate task:
+## Intermediate task:
 
 4. There is an event with ticket prices that are `$50`, `$65`, `$85` for 
 standard, premier, and premier plus (for drinks) seating. Seniors, veterans, 

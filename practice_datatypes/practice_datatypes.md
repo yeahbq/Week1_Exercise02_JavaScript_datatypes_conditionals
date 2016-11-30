@@ -29,7 +29,7 @@ Try this in your console:
 3.length
 ```
 
-### Play around with this somemore, check this **[tutorial](http://www.w3schools.com/js/js_variables.asp)** out.
+### Play around with this some more, check this **[tutorial](http://www.w3schools.com/js/js_variables.asp)** out.
 
 ## Arrays
 

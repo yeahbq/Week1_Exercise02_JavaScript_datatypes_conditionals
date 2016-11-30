@@ -44,3 +44,13 @@ Create an array of your favorite sports teams and test out some different method
 *    `Array.reverse()`
 
 Here is a reference for more information about [arrays and methods you can use on them](http://devdocs.io/javascript-array/).
+
+### Independent Practice Round Two!
+Those six array methods that you just practiced are all very important, but they're not the only methods you will be using! Here's another round of very common and useful array methods that are beneficial to learn:
+
+* `String.split()`
+* `Array.join()`
+* `Array.splice()`
+* `Array.slice()`
+
+After you feel like you have a good understanding of those four methods, check out [this reference](http://devdocs.io/javascript-array/) and see if you can find any other methods that you think will be useful and share back with the class!

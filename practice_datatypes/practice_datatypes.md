@@ -54,3 +54,24 @@ Those six array methods that you just practiced are all very important, but they
 * `Array.slice()`
 
 After you feel like you have a good understanding of those four methods, check out [this reference](http://devdocs.io/javascript-array/) and see if you can find any other methods that you think will be useful and share back with the class!
+
+### White Boarding
+
+Shut your computers.  
+![home_alone](https://media0.giphy.com/media/d2ZjBlsQa5dWO45a/200.gif)
+
+Let's whiteboard examples of:
+
+* String
+* Number
+* Boolean
+* Array
+* variable assignment
+
+##Conclusion
+
+* What are the five primitive JavaScript data types?
+* What method can be used to remove the last item in an array?
+* What method can be used to remove the first item in an array?
+* What method can be used to add an item to the end of an array?
+* What method can be used to add an item to the beginning of an array?

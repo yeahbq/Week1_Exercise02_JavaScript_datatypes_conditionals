@@ -30,3 +30,17 @@ Try this in your console:
 ```
 
 ### Play around with this somemore, check this **[tutorial](http://www.w3schools.com/js/js_variables.asp)** out.
+
+## Arrays
+
+### Independent Practice
+Create an array of your favorite sports teams and test out some different methods on that array. 
+
+*    `Array.push()`
+*    `Array.pop()`
+*    `Array.shift()`
+*    `Array.unshift()`
+*    `Array.sort()`
+*    `Array.reverse()`
+
+Here is a reference for more information about [arrays and methods you can use on them](http://devdocs.io/javascript-array/).

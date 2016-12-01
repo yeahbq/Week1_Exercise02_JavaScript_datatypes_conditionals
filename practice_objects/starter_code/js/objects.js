@@ -5,7 +5,7 @@ console.log("script linked!")
 //////////////////////////////
 
 // First build two objects 'mom' and 'dad' as object literals (e.g. 'var mom = {}'). If you have a non-traditional family structure, just use someone everybody loves, like Joe Biden or Oprah.
-
+var mon = {};
 
 
 

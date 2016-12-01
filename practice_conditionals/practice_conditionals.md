@@ -2,11 +2,11 @@
 
 ## COMPARISON OPERATORS
 ```javascript
-3 > 1 && 10 > 1
+3 > 1 && 10 > 1 = true
 
-100 > 200 || 2 > 1
+100 > 200 || 2 > 1 = true
 
-5 === 5
+5 === 5 = true
 
 ```
 
@@ -15,19 +15,19 @@
 So what will these return?
 
 ```javascript
-"hello" === 'hello'
-5 === 5
-true === false
-null === null
-undefined === undefined
+"hello" === 'hello' = true
+5 === 5 = true
+true === false = false
+null === null = true
+undefined === undefined = true
 
 var a = ["UCLA", "USC"] 
 var b = ["UCLA", "USC"]
-a === b
+a === b = true
 
 var x = {name: "Godzilla"}
 var y = {name: "Godzilla"}
-x === y
+x === y = true
 ```
 
 #### True and false, truthy and falsy
@@ -42,14 +42,14 @@ But JavaScript (and most languages) also allow a lot of other things to *evaluat
 if(2 > 1){
     console.log("The condition evaluated to true")
 }
-```
+```"condition evaluated to true"
 
 ```javascript
 if(true){
     console.log("The condition evaluated to true")
 }
 ```
-
+false no message
 
 Let's try plugging a few others into an if statement:
 
@@ -68,6 +68,12 @@ NaN (a special Number value meaning Not-a-Number!)
 
 ## WHILE LOOPS
 Create a while loop that will `console.log` every number from 1-9
+
+var i = 1;
+console.log(i);
+i++;
+while (i <= 9); 
+
 
 
 As an exercise I want you all to put this into practice
